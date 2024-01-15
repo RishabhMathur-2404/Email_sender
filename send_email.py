@@ -477,7 +477,7 @@ subject = "Test"
 smtp_server = "smtp.gmail.com"
 smtp_port = 587
 smtp_username = "rishabhmathur2404@gmail.com"
-smtp_password = "vxdm mhlz yrnq uzsd"
+smtp_password = "password"
 
 # Initialize SMTP server
 server = smtplib.SMTP(smtp_server, smtp_port)
